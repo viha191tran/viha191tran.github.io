@@ -5,13 +5,13 @@ const textConfig = {
   text4: "Nếu Thầy hem trả lời mà thoát ra là Thầy hem nhận được quà của em đâu đó :>",
   text5: "Bình thường :)))",
   text6: "Nhớ lém lém :(((",
-  text7: "Thầy coá thấy em cute hem Thầy? :>",
+  text7: "Em củm nhớ Thầy lém lém T.T hiuhiu. Mà Thầy coá thấy em cute hem Thầy? :>",
   text8: "Gửi cho em <3",
-  text9: "Nhiều lém lém :((",
+  text9: "Nhớ lém lém :((",
   text10: "Em biết mà ^^",
   text11:
-    "Qua Tết vào SG lại Thầy dẫn em đi ăn với đi chụp hình nha :>",
-  text12: "Okii lunn <3",
+    "Qua Tết em vào SG lại Thầy dẫn em đi ăn với đi chụp hình nha :>",
+  text12: "Ukii lunn <3",
 };
 
 $(document).ready(function () {
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder=' '>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='...'>",
       background: '#fff url("img/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
