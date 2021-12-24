@@ -2,13 +2,13 @@ const textConfig = {
   text1: "Hi Thầy!",
   text2: "Em có điều này muốn hỏi Thầy nhớ phải trả lời thật lòng nhaaa.",
   text3: "Thầy có nhớ em hem? ._.",
-  text4: "Nếu Thầy hem trả lời mà thoát ra là Thầy hông nhận được quà của em đâu đó :>",
+  text4: "Nếu Thầy hem trả lời mà thoát ra là Thầy hem nhận được quà của em đâu đó :>",
   text5: "Bình thường :)))",
-  text6: "Nhớ lắm lun :(((",
-  text7: "Thầy nhớ em nhìu hem? :>",
+  text6: "Nhớ lém lém :(((",
+  text7: "Thầy coá thấy em cute hem Thầy? :>",
   text8: "Gửi cho em <3",
   text9: "Nhiều lém lém :((",
-  text10: "Em biết mà ^^ Em cũng nhớ Thầy nhìu :(",
+  text10: "Em biết mà ^^",
   text11:
     "Qua Tết vào SG lại Thầy dẫn em đi ăn với đi chụp hình nha :>",
   text12: "Okii lunn <3",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "https://drive.google.com/drive/u/1/folders/1cOWtm0b8jCgmi1GpLiGCITs4KmpLP22y";
           },
         });
       }
